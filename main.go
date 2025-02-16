@@ -1,6 +1,6 @@
 package main
 
-import "github.com/atishay-aj/pokedexcli/pokeapi"
+import "github.com/atishay-aj/pokedexcli/internal/pokeapi"
 
 type config struct {
 	pokeapiClient           pokeapi.Client
